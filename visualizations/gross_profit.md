@@ -1,4 +1,10 @@
 # Влияние оптимизации стоимости сборки заказа на валовую прибыль в сентябре
+<div style="display: flex; gap: 10px; margin-bottom: 20px;">
+  <img src="../img/gross_and_total_gross_profit.png" alt="График 1" style="width:49%;">
+  <img src="../img/gross_and_total_gross_profit_2.png" alt="График 2" style="width:49%;">
+</div>
+
+<img src="../img/gross_and_total_gross_profit_3.png" alt="График 3" style="width:100%;">
 
 Оптимизация стоимости сборки заказа — снижение с **140 до 115** — напрямую способствовала росту валовой прибыли в сентябре.
 
